@@ -1,3 +1,3 @@
 #!/bin/bash
 
-tar -xvf compressed_data/tng-data-wikipedia.tar.gz
+7z x -y compressed_data/tng-data-wikipedia.7z.001

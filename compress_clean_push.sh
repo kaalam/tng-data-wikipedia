@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # remove previous compressed data file
-rm -f compressed_data/tng-data-wikipedia.tar.gz
+rm -f compressed_data/*
 
 # build the new one
-tar -czvf compressed_data/tng-data-wikipedia.tar.gz data/
+7z a -r -v99m compressed_data/tng-data-wikipedia.7z data/
 
 # clean
 find data/* | grep -v __WARNING__ | xargs rm -rf
