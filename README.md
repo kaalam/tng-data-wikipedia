@@ -24,4 +24,4 @@ The Tangle [reference](https://kaalam.github.io/jazz_reference/reference_docker_
 
 | Dataset   | Original source                              | License                                                     |
 | --------- | -------------------------------------------- | ----------------------------------------------------------- |
-| Wikipedia | https://dumps.wikimedia.org/enwiki/20241001/ | [Wikimedia License](https://dumps.wikimedia.org/legal.html) |
+| Wikipedia | https://dumps.wikimedia.org/enwiki/20240101/ | [Wikimedia License](https://dumps.wikimedia.org/legal.html) |
